@@ -6442,11 +6442,10 @@
     "byproducts": {},
     "industry": "Assembly Line M",
     "input": {
-      "Basic Fixation": 18,
-      "Uncommon Fixation": 18,
-      "Uncommon Processor": 25,
-      "Uncommon Power Transformer M": 1,
-      "Uncommon Standard Frame M": 1
+      "Basic Fixation": 72,
+      "Basic Processor": 50,
+      "Basic Power Transformer M": 2,
+      "Basic Standard Frame M": 2
     }
   },
   "Container Hub": {
