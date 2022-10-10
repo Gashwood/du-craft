@@ -304,7 +304,8 @@
     },
     "industry": "Refiner M",
     "input": {
-      "Limestone": 65
+      "Limestone": 65,
+      "Tier 2 Pure Material Schematic Copy": 1
     }
   },
   "Pure Chromium": {
@@ -319,7 +320,8 @@
     },
     "industry": "Refiner M",
     "input": {
-      "Chromite": 65
+      "Chromite": 65,
+      "Tier 2 Pure Material Schematic Copy": 1
     }
   },
   "Pure Copper": {
@@ -334,7 +336,8 @@
     },
     "industry": "Refiner M",
     "input": {
-      "Malachite": 65
+      "Malachite": 65,
+      "Tier 2 Pure Material Schematic Copy": 1
     }
   },
   "Pure Sodium": {
@@ -349,7 +352,8 @@
     },
     "industry": "Refiner M",
     "input": {
-      "Natron": 65
+      "Natron": 65,
+      "Tier 2 Pure Material Schematic Copy": 1
     }
   },
   "Pure Lithium": {
@@ -677,7 +681,8 @@
     "industry": "Smelter M",
     "input": {
       "Pure Aluminium": 100,
-      "Pure Iron": 50
+      "Pure Iron": 50,
+      "Tier 1 Product Material Schematic Copy": 1
     }
   },
   "Al-Li Alloy": {
@@ -706,7 +711,8 @@
     "industry": "Smelter M",
     "input": {
       "Pure Copper": 100,
-      "Pure Calcium": 50
+      "Pure Calcium": 50,
+      "Tier 2 Product Material Schematic Copy": 1
     }
   },
   "Cu-Ag Alloy": {
@@ -735,7 +741,8 @@
     "industry": "Smelter M",
     "input": {
       "Pure Copper": 100,
-      "Pure Aluminium": 50
+      "Pure Aluminium": 50,
+      "Tier 2 Product Material Schematic Copy": 1
     }
   },
   "Grade 5 Titanium Alloy": {
@@ -850,7 +857,8 @@
     "input": {
       "Pure Chromium": 100,
       "Pure Iron": 50,
-      "Pure Carbon": 50
+      "Pure Carbon": 50,
+      "Tier 2 Product Material Schematic Copy": 1
     }
   },
   "Ti-Nb Supraconductor": {
@@ -1035,7 +1043,8 @@
     "industry": "Chemical Industry M",
     "input": {
       "Pure Carbon": 100,
-      "Pure Hydrogen": 50
+      "Pure Hydrogen": 50,
+      "Tier 1 Product Material Schematic Copy": 1
     }
   },
   "Polycalcite Plastic": {
@@ -1049,7 +1058,8 @@
     "input": {
       "Pure Calcium": 100,
       "Pure Carbon": 50,
-      "Pure Hydrogen": 50
+      "Pure Hydrogen": 50,
+      "Tier 2 Product Material Schematic Copy": 1
     }
   },
   "Polysulfide Plastic": {
@@ -1115,7 +1125,8 @@
     "industry": "Smelter M",
     "input": {
       "Pure Aluminium": 100,
-      "Pure Silicon": 50
+      "Pure Silicon": 50,
+      "Tier 1 Product Material Schematic Copy": 1
     }
   },
   "Steel": {
@@ -1129,7 +1140,8 @@
     "industry": "Smelter M",
     "input": {
       "Pure Iron": 100,
-      "Pure Carbon": 50
+      "Pure Carbon": 50,
+      "Tier 1 Product Material Schematic Copy": 1
     }
   },
   "Wood": {
@@ -6230,7 +6242,8 @@
       "Basic Component": 1,
       "Basic Power System": 1,
       "Basic Core System XS": 1,
-      "Basic Standard Frame XS": 1
+      "Basic Standard Frame XS": 1,
+      "Core Unit XS Schematic Copy": 1
     }
   },
   "Dynamic Core Unit S": {
@@ -6246,7 +6259,8 @@
       "Uncommon Component": 3,
       "Uncommon Power System": 5,
       "Uncommon Core System S": 1,
-      "Uncommon Standard Frame S": 1
+      "Uncommon Standard Frame S": 1,
+      "Core Unit S Schematic Copy": 1
     }
   },
   "Dynamic Core Unit M": {
@@ -6261,7 +6275,8 @@
       "Uncommon Component": 36,
       "Advanced Power System": 25,
       "Advanced Core System M": 1,
-      "Advanced Standard Frame M": 1
+      "Advanced Standard Frame M": 1,
+      "Core Unit M Schematic Copy": 1
     }
   },
   "Dynamic Core Unit L": {
@@ -6277,7 +6292,8 @@
       "Advanced Component": 108,
       "Rare Power System": 125,
       "Rare Core System L": 1,
-      "Rare Standard Frame L": 1
+      "Rare Standard Frame L": 1,
+      "Core Unit L Schematic Copy": 1
     }
   },
   "Static Core Unit XS": {
@@ -6293,7 +6309,8 @@
       "Basic Component": 1,
       "Basic Power System": 1,
       "Basic Core System XS": 1,
-      "Basic Standard Frame XS": 1
+      "Basic Standard Frame XS": 1,
+      "Core Unit XS Schematic Copy": 1
     }
   },
   "Static Core Unit S": {
@@ -6309,7 +6326,8 @@
       "Basic Component": 6,
       "Basic Power System": 5,
       "Basic Core System S": 1,
-      "Basic Standard Frame S": 1
+      "Basic Standard Frame S": 1,
+      "Core Unit S Schematic Copy": 1
     }
   },
   "Static Core Unit M": {
@@ -6325,7 +6343,8 @@
       "Uncommon Component": 18,
       "Uncommon Power System": 25,
       "Uncommon Core System M": 1,
-      "Uncommon Standard Frame M": 1
+      "Uncommon Standard Frame M": 1,
+      "Core Unit M Schematic Copy": 1
     }
   },
   "Static Core Unit L": {
@@ -6341,7 +6360,8 @@
       "Uncommon Component": 108,
       "Uncommon Power System": 125,
       "Uncommon Core System L": 1,
-      "Uncommon Standard Frame L": 1
+      "Uncommon Standard Frame L": 1,
+      "Core Unit L Schematic Copy": 1
     }
   },
   "Space Core Unit XS": {
@@ -6357,7 +6377,8 @@
       "Basic Component": 1,
       "Basic Power System": 1,
       "Basic Core System XS": 1,
-      "Basic Standard Frame XS": 1
+      "Basic Standard Frame XS": 1,
+      "Core Unit XS Schematic Copy": 1
     }
   },
   "Space Core Unit S": {
@@ -6373,7 +6394,8 @@
       "Uncommon Component": 3,
       "Uncommon Power System": 5,
       "Uncommon Core System S": 1,
-      "Uncommon Standard Frame S": 1
+      "Uncommon Standard Frame S": 1,
+      "Core Unit S Schematic Copy": 1
     }
   },
   "Space Core Unit M": {
@@ -6389,7 +6411,8 @@
       "Advanced Power System": 25,
       "Advanced Core System M": 1,
       "Advanced Anti-Gravity Core": 16,
-      "Advanced Standard Frame M": 1
+      "Advanced Standard Frame M": 1,
+      "Core Unit M Schematic Copy": 1
     }
   },
   "Space Core Unit L": {
@@ -6406,7 +6429,8 @@
       "Rare Power System": 125,
       "Rare Core System L": 1,
       "Rare Anti-Gravity Core": 64,
-      "Rare Standard Frame L": 1
+      "Rare Standard Frame L": 1,
+      "Core Unit L Schematic Copy": 1
     }
   },
   "Territory Unit": {
@@ -10287,7 +10311,8 @@
       "Uncommon Component": 648,
       "Uncommon Power System": 625,
       "Uncommon Ore Scanner XL": 1,
-      "Uncommon Reinforced Frame XL": 1
+      "Uncommon Reinforced Frame XL": 1,
+      "Tier 2 XL Element Schematic Copy": 1
     }
   },
   "Gyroscope": {
@@ -20849,5 +20874,95 @@
       "Exotic Quantum Alignment Unit": 64,
       "Exotic Standard Frame L": 1
     }
+  },
+  "Core Unit XS Schematic Copy": {
+    "tier": 1,
+    "type": "Schematic",
+    "volume": 1,
+    "outputQuantity": 10,
+    "time": 500,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Core Unit S Schematic Copy": {
+    "tier": 1,
+    "type": "Schematic",
+    "volume": 1,
+    "outputQuantity": 5,
+    "time": 5000,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Core Unit M Schematic Copy": {
+    "tier": 1,
+    "type": "Schematic",
+    "volume": 1,
+    "outputQuantity": 2,
+    "time": 25020,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },  
+  "Core Unit L Schematic Copy": {
+    "tier": 1,
+    "type": "Schematic",
+    "volume": 1,
+    "outputQuantity": 1,
+    "time": 8701200,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 2 Pure Material Schematic Copy": {
+    "tier": 2,
+    "type": "Schematic",
+    "volume": 1,
+    "outputQuantity": 40,
+    "time": 1500,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 1 Product Material Schematic Copy": {
+    "tier": 1,
+    "type": "Schematic",
+    "volume": 1,
+    "outputQuantity": 50,
+    "time": 1800,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 2 Product Material Schematic Copy": {
+    "tier": 2,
+    "type": "Schematic",
+    "volume": 1,
+    "outputQuantity": 40,
+    "time": 4500,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Territory Unit Schematic Copy": {
+    "tier": 1,
+    "type": "Schematic",
+    "volume": 1,
+    "outputQuantity": 5,
+    "time": 19980,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 2 XL Element Schematic Copy": {
+    "tier": 2,
+    "type": "Schematic",
+    "volume": 1,
+    "outputQuantity": 1,
+    "time": 30000,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
   }
 }

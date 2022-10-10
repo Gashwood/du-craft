@@ -4,3 +4,4 @@ du-map.zip
 *.DS_Store
 config.php
 *.bak
+.vs

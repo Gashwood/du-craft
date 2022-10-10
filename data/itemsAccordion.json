@@ -2624,5 +2624,19 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Schematics",
+    "data": [
+      "Core Unit XS Schematic Copy",
+      "Core Unit S Schematic Copy",
+      "Core Unit M Schematic Copy",
+      "Core Unit L Schematic Copy",
+      "Tier 2 Pure Material Schematic Copy",
+      "Tier 1 Product Material Schematic Copy",
+      "Tier 2 Product Material Schematic Copy",
+      "Territory Unit Schematic Copy",
+      "Tier 2 XL Element Schematic Copy"
+    ]
   }
 ]

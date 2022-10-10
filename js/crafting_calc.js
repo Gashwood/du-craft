@@ -203,9 +203,11 @@ function recipeCalc(recipes) {
                 break;
             case "Input":
                 for (const i in item.input) {
-                    currentBonus = item.input[i] - item.actualInput[i];
-                    skillBonus = item.input[i] * amount;
-                    item.actualInput[i] = item.input[i] - skillBonus - currentBonus;
+                    if (!i.includes("Schematic Copy")) {
+                        currentBonus = item.input[i] - item.actualInput[i];
+                        skillBonus = item.input[i] * amount;
+                        item.actualInput[i] = item.input[i] - skillBonus - currentBonus;
+                    }
                 }
                 break;
         }
