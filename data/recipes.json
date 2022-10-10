@@ -7297,7 +7297,8 @@
       "Basic Pipe": 36,
       "Basic Power System": 25,
       "Basic Chemical Container M": 1,
-      "Basic Reinforced Frame M": 1
+      "Basic Reinforced Frame M": 1,
+      "Tier 1 M Element Schematic Copy": 1
     }
   },
   "Uncommon Chemical Industry M": {
@@ -7359,7 +7360,8 @@
       "Basic Pipe": 36,
       "Basic Electronics": 25,
       "Basic Robotic Arm M": 1,
-      "Basic Reinforced Frame M": 1
+      "Basic Reinforced Frame M": 1,
+      "Tier 1 M Element Schematic Copy": 1
     }
   },
   "Uncommon Electronics Industry M": {
@@ -7421,7 +7423,8 @@
       "Basic Pipe": 36,
       "Basic Burner": 25,
       "Basic Power Transformer M": 1,
-      "Basic Reinforced Frame M": 1
+      "Basic Reinforced Frame M": 1,
+      "Tier 1 M Element Schematic Copy": 1
     }
   },
   "Uncommon Glass Furnace M": {
@@ -7483,7 +7486,8 @@
       "Basic Pipe": 36,
       "Basic Power System": 25,
       "Basic Robotic Arm M": 1,
-      "Basic Reinforced Frame M": 1
+      "Basic Reinforced Frame M": 1,
+      "Tier 1 M Element Schematic Copy": 1
     }
   },
   "Uncommon Honeycomb Refinery M": {
@@ -7545,7 +7549,8 @@
       "Basic Pipe": 36,
       "Basic Power System": 25,
       "Basic Mobile Panel M": 1,
-      "Basic Reinforced Frame M": 1
+      "Basic Reinforced Frame M": 1,
+      "Tier 1 M Element Schematic Copy": 1
     }
   },
   "Uncommon Metalwork Industry M": {
@@ -7607,7 +7612,8 @@
       "Basic Pipe": 36,
       "Basic Burner": 25,
       "Basic Mobile Panel M": 1,
-      "Basic Reinforced Frame M": 1
+      "Basic Reinforced Frame M": 1,
+      "Tier 1 M Element Schematic Copy": 1
     }
   },
   "Uncommon Recycler M": {
@@ -7669,7 +7675,8 @@
       "Basic Pipe": 36,
       "Basic Power System": 25,
       "Basic Chemical Container M": 1,
-      "Basic Reinforced Frame M": 1
+      "Basic Reinforced Frame M": 1,
+      "Tier 1 M Element Schematic Copy": 1
     }
   },
   "Uncommon Refiner M": {
@@ -7731,7 +7738,8 @@
       "Basic Pipe": 36,
       "Basic Burner": 25,
       "Basic Chemical Container M": 1,
-      "Basic Reinforced Frame M": 1
+      "Basic Reinforced Frame M": 1,
+      "Tier 1 M Element Schematic Copy": 1
     }
   },
   "Uncommon Smelter M": {
@@ -7793,7 +7801,8 @@
       "Basic Pipe": 216,
       "Basic Hydraulics": 125,
       "Basic Robotic Arm L": 1,
-      "Basic Standard Frame L": 1
+      "Basic Standard Frame L": 1,
+      "Tier 1 L Element Schematic Copy": 1
     }
   },
   "Retro-Rocket Brake S": {
@@ -8763,7 +8772,8 @@
       "Uncommon Screw": 108,
       "Uncommon Injector": 125,
       "Uncommon Combustion Chamber L": 1,
-      "Uncommon Reinforced Frame L": 1
+      "Uncommon Reinforced Frame L": 1,
+      "Tier 2 L Element Schematic Copy": 1
     }
   },
   "Uncommon Military Atmospheric Engine L": {
@@ -20904,7 +20914,7 @@
     "byproducts": {},
     "industry": "",
     "input": {}
-  },  
+  },
   "Core Unit L Schematic Copy": {
     "tier": 1,
     "type": "Schematic",
@@ -20951,6 +20961,36 @@
     "volume": 1,
     "outputQuantity": 5,
     "time": 19980,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 1 M Element Schematic Copy": {
+    "tier": 1,
+    "type": "Schematic",
+    "volume": 1,
+    "outputQuantity": 3,
+    "time": 3000,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 1 L Element Schematic Copy": {
+    "tier": 1,
+    "type": "Schematic",
+    "volume": 1,
+    "outputQuantity": 2,
+    "time": 6000,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 2 L Element Schematic Copy": {
+    "tier": 2,
+    "type": "Schematic",
+    "volume": 1,
+    "outputQuantity": 2,
+    "time": 15000,
     "byproducts": {},
     "industry": "",
     "input": {}
