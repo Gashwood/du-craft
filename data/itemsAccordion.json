@@ -2627,6 +2627,9 @@
   {
     "name": "Schematics",
     "data": [
+      "Atmospheric Fuel Schematic Copy",
+      "Space Fuels Schematic Copy",
+      "Rocket Fuels Schematic Copy",
       "Core Unit XS Schematic Copy",
       "Core Unit S Schematic Copy",
       "Core Unit M Schematic Copy",
