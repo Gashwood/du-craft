@@ -199,16 +199,6 @@
     "industry": "",
     "input": {}
   },
-  "Thoramine": {
-    "tier": 5,
-    "type": "Ore",
-    "volume": 1,
-    "outputQuantity": 1,
-    "time": 0,
-    "byproducts": {},
-    "industry": "",
-    "input": {}
-  },
   "Pure Oxygen": {
     "tier": 0,
     "type": "Pure",
