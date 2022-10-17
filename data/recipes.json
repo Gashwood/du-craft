@@ -6515,7 +6515,8 @@
     "input": {
       "Basic Component": 432,
       "Basic Hydraulics": 250,
-      "Basic Reinforced Frame L": 2
+      "Basic Reinforced Frame L": 2,
+      "Tier 1 L Element Schematic Copy" : 1
     }
   },
   "Container XL": {
@@ -7892,7 +7893,8 @@
       "Basic Pipe": 36,
       "Basic Hydraulics": 25,
       "Basic Mobile Panel M": 1,
-      "Basic Standard Frame M": 1
+      "Basic Standard Frame M": 1,
+      "Construct Support L Schematic Copy": 1
     }
   },
   "Compact Aileron XS": {
@@ -10005,7 +10007,8 @@
       "Basic Screw": 36,
       "Basic Injector": 25,
       "Basic Gas Cylinder M": 1,
-      "Basic Reinforced Frame M": 1
+      "Basic Reinforced Frame M": 1,
+      "Tier 1 L Element Schematic Copy": 1
     }
   },
   "Adjustor XS": {
@@ -10065,7 +10068,8 @@
       "Basic Pipe": 36,
       "Basic Injector": 25,
       "Basic Gas Cylinder M": 1,
-      "Basic Standard Frame M": 1
+      "Basic Standard Frame M": 1,
+      "Construct Support L Schematic Copy" : 1
     }
   },
   "Rocket Engine S": {
@@ -21029,6 +21033,16 @@
     "volume": 1,
     "outputQuantity": 1,
     "time": 30000,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Construct Support L Schematic Copy": {
+    "tier": 1,
+    "type": "Schematic",
+    "volume": 1,
+    "outputQuantity": 10,
+    "time": 6000,
     "byproducts": {},
     "industry": "",
     "input": {}
