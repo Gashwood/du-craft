@@ -6487,7 +6487,8 @@
     "input": {
       "Basic Component": 36,
       "Basic Hydraulics": 25,
-      "Basic Reinforced Frame M": 1
+      "Basic Reinforced Frame M": 1,
+      "Tier 1 S Element Schematic Copy": 1
     }
   },
   "Container M": {
@@ -20993,6 +20994,16 @@
     "volume": 1,
     "outputQuantity": 5,
     "time": 19980,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 1 S Element Schematic Copy": {
+    "tier": 1,
+    "type": "Schematic",
+    "volume": 1,
+    "outputQuantity": 5,
+    "time": 1500,
     "byproducts": {},
     "industry": "",
     "input": {}
