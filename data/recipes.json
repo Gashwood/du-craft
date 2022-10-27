@@ -2015,8 +2015,8 @@
     "nanopack": true,
     "industry": "Electronics Industry M",
     "input": {
-      "Al-Fe Alloy": 18,
-      "Basic Fixation": 12
+      "Al-Fe Alloy": 6,
+      "Basic Fixation": 4
     }
   },
   "Uncommon Processor": {
